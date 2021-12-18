@@ -8,27 +8,27 @@ Payloads from https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Me
   <li>awk</li>
   <li>bash_tcp</li>
   <li>bash_udp</li>
+  <li>c</li>
+  <li>dart</li>
+  <li>golang</li>
+  <li>groovy</li>
+  <li>java</li>
+  <li>lua</li>
+  <li>ncat</li>
+  <li>netcat</li>
+  <li>netcat_busybox</li>
+  <li>netcat_openbsd</li>
+  <li>nodejs</li>
+  <li>openssl</li>
+  <li>perl</li>
+  <li>php</li>
+  <li>powershell</li>
+  <li>python</li>
+  <li>ruby</li>
+  <li>socat</li>
+  <li>telnet</li>
+  <li>war</li>
 </ul>
-c 
-dart
-golang 
-groovy 
-java
-lua
-ncat
-netcat
-netcat_busybox
-netcat_openbsd 
-nodejs
-openssl
-perl
-php
-powershell
-python
-ruby
-socat
-telnet
-war
 
 python3 get_shell.py host=<IP_ADDR> port=<PORT> lang=<LANG>
 usage: python3 get_shell.py host=192.168.1.1 port=8080 lang=c
