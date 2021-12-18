@@ -30,9 +30,8 @@ Payloads from https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Me
   <li>war</li>
 </ul>
 
-python3 get_shell.py host=<IP_ADDR> port=<PORT> lang=<LANG>
-usage: python3 get_shell.py host=192.168.1.1 port=8080 lang=c
-
+usage: python3 get_shell.py host=<IP_ADDR> port=<PORT> lang=<LANG>
+  
 ![image](https://user-images.githubusercontent.com/49540886/146590906-bde47db6-01ef-4689-ba3e-e4083785bcd4.png)
 
 
