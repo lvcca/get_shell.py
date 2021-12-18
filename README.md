@@ -4,9 +4,11 @@ Payloads from https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Me
 
 <h2>Supported Languages</h2>
 
-awk
-bash_tcp
-bash_udp
+<ul>
+  <li>awk</li>
+  <li>bash_tcp</li>
+  <li>bash_udp</li>
+</ul>
 c 
 dart
 golang 
